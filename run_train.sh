@@ -1,0 +1,1 @@
+python3 run_denoise.py --do_train --task nli --dataset snli --output_dir ./trained_model_test/ --num_train_epochs 1 --logging_steps 500 --save_steps 1000

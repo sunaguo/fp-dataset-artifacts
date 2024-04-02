@@ -1,2 +1,13 @@
 *.pyc
 output/
+
+.ipynb_checkpoints/*
+
+trained_model*/
+eval_output*/*
+*.pt
+
+archive/*
+data/*
+figs/*
+submission/*
